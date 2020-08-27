@@ -37,3 +37,16 @@ digestive_RKO_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 digestive_SNU1040_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 digestive_HT29_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 digestive_LOVO_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_NOMO1_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_SKM1_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_THP1_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_U266_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_CD34_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_HL60_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_JURKAT_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_JURKAT_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_WSUDLCL2_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_CD34_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_HS27A_n14_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_PL21_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+hematopoietic_U937_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
