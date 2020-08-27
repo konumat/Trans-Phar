@@ -78,3 +78,8 @@ ovary_RMGI_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 ovary_RMUGS_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 ovary_TYKNU_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 ovary_COV644_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+pancreas_YAPC_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+prostate_LNCAP_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+prostate_PC3_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+prostate_PC3_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+prostate_VCAP_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
