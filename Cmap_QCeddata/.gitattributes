@@ -14,3 +14,10 @@ breast_HS578T_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 breast_MCF10A_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 breast_MCF7_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 breast_MDAMB231_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+cns_MNEU.E_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+cns_NEU_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+cns_NEU_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+cns_NPC.CAS9_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+cns_NPC.TAK_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+cns_NPC_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+cns_NPC_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
