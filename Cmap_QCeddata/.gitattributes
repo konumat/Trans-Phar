@@ -68,3 +68,7 @@ liver_PHH_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 lung_CORL23_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 lung_H1299_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 lung_NCIH1836_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+musculoskeletal_A673_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+musculoskeletal_SKB_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+musculoskeletal_SKL.C_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+musculoskeletal_SKL_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
