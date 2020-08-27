@@ -83,3 +83,7 @@ prostate_LNCAP_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 prostate_PC3_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 prostate_PC3_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 prostate_VCAP_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+uterus_HEC108_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+uterus_HELA_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+uterus_JHUEM2_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+uterus_SNGM_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
