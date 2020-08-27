@@ -87,3 +87,8 @@ uterus_HEC108_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 uterus_HELA_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 uterus_JHUEM2_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
 uterus_SNGM_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+skin_A375_ph2_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+skin_MCH58_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+skin_SKMEL1_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+skin_SKMEL28_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
+skin_A375_ph1_QCed.txt.gz filter=lfs diff=lfs merge=lfs -text
