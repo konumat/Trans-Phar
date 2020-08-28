@@ -8,7 +8,7 @@ This software achieves *in silico* screening of chemical compounds, which have i
 
 ## Publication/Citation
 
-*Now writing*
+*Now submitting*
 
 ## Requirements
 - R
