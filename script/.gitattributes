@@ -1,0 +1,4 @@
+FOCUS_resultstoplots.py filter=lfs diff=lfs merge=lfs -text
+Spearman.R filter=lfs diff=lfs merge=lfs -text
+ALL.sh filter=lfs diff=lfs merge=lfs -text
+FOCUS_assoc_test_unifyingresult.R filter=lfs diff=lfs merge=lfs -text
