@@ -68,16 +68,17 @@ All you need is a text file with GWAS summary statistics. (A file extension is .
 Please have a look at an example input at `./tutorial_input/Asthmaadult.sumstats`.
 
 
-### Step 2: Transfer your input data to predetermined folder (named as Input_GWASsummary)
+### Step 2: Put your input data to predetermined folder (named as Input_GWASsummary)
 
-if you use tutorial GWAS summary data;
+
 ```bash
 mkdir ./Input_GWASsummary
 mkdir ./Input_GWASsummary_done
 mkdir ./Output
 
+if you use tutorial GWAS summary data;
 gunzip ./tutorial_input/Schizo.sumstats.gz
-mv ./tutorial_input/Schizo.sumstats ./Input_GWASsummary
+cp ./tutorial_input/Schizo.sumstats ./Input_GWASsummary
 ```
 
 ### Step 3: Trans-Phar from GWAS summary to chemical compounds in all-in-one script
