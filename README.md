@@ -107,6 +107,7 @@ less GTEx_Adipose_Subcutaneous.chr_all.focus_shaped.tsv #TWAS result file (shape
 
 ```bash
 #Output p-values for Negative Spearmans's correlation tests according to total 308,872 pairs of TWAS tissue - CMap cell - Compunds
+#Data of TWAS tissue - CMap cell - Compunds whose P-value < 0.0001 are in Output/Schizo/Spearmanresults/spearman_eachpair_results and Output/Schizo/Spearmanresults/spearman_eachpair_coplots
 #For Example
 cd ../../Spearmanresults/spearman_totalresults
 less ALLpairs_spearmanresults.txt
