@@ -17,6 +17,8 @@ This software achieves *in silico* screening of chemical compounds, which have i
 - numpy
 - pandas
 - math
+- cycler
+- kiwisolver
 - FOCUS (Fine-mapping Of CaUsal gene Sets) as TWAS software
 
 
