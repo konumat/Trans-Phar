@@ -78,7 +78,7 @@ mkdir ./Input_GWASsummary
 mkdir ./Input_GWASsummary_done
 mkdir ./Output
 
-if you use tutorial GWAS summary data;
+#if you use tutorial GWAS summary data;
 gunzip ./tutorial_input/Schizo.sumstats.gz
 cp ./tutorial_input/Schizo.sumstats ./Input_GWASsummary
 ```
