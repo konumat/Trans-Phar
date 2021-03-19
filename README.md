@@ -8,7 +8,9 @@ This software achieves *in silico* screening of chemical compounds, which have i
 
 ## Publication/Citation
 
-*Now submitting*
+*Hum mol genet* 2021 Konuma T, Ogawa K, Okada Y. "Integration of genetically regulated gene expression and pharmacological library provides therapeutic drug candidates."
+https://doi.org/10.1093/hmg/ddab049
+
 
 ## Requirements
 - R
