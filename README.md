@@ -12,6 +12,7 @@ This software achieves *in silico* screening of chemical compounds, which have i
 
 ## Requirements
 - R
+- dichromat (R package) (installing by install.packages("dichromat"))
 - python 3.X
 - scipy
 - numpy
@@ -67,7 +68,7 @@ All you need is a text file with GWAS summary statistics. (A file extension is .
 |8|BETA|Beta (effect allele)|
 |9|P|P-value|
 
-Please have a look at an example input at `./tutorial_input/Asthmaadult.sumstats`.
+Please have a look at an example input at `./tutorial_input/Schizo.sumstats`.
 
 
 ### Step 2: Put your input data to predetermined folder (named as Input_GWASsummary)
@@ -85,11 +86,19 @@ cp ./tutorial_input/Schizo.sumstats ./Input_GWASsummary
 
 ### Step 3: Trans-Phar from GWAS summary to chemical compounds in all-in-one script
 
+1) If you input ICD-10 code (for example, F20 for Schizophrenia as below), you will also get gold-standard drug (approved drugs for ICD-10 F20 in ChEMBL and TTD [Therapeutic Target Database] in an output Q-Q plot data.
+ICD-10 codes which are not listed in ChEMBL and TTD are not applicable.
+The example command is as follows;
 ```bash
 cd ./script
-./ALL.sh
+./Trans-Phar.sh F20
 ```
 
+2) If you need not get gold-standard Q-Q plot, you only enter the example command as follows;
+```bash
+cd ./script
+./Trans-Phar.sh
+```
 
 
 ## Output
