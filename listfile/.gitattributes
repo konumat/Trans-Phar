@@ -1,2 +1,0 @@
-TissueCelltypeCategory.csv filter=lfs diff=lfs merge=lfs -text
-ICD_approveddruglist.csv filter=lfs diff=lfs merge=lfs -text
