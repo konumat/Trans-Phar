@@ -31,7 +31,7 @@ mkdir -p ./TWASresults
     cd ../Output/${filename::-9}/TWASresults/${tissuename::-3}
     Rscript ../../../../script/FOCUS_assoc_test_unifyingresult.R
     python3 ../../../../script/FOCUS_resultstoplots.py
-    ##特に必要なファイルは別フォルダに
+    
     mkdir -p ../ALLTISSUE
     mv *.png ../ALLTISSUE
     mv *chr_all.focus.tsv ../ALLTISSUE
