@@ -2,8 +2,7 @@ rm(list = ls(all = TRUE))
 stringsAsFactors = FALSE
 
 DIR <- getwd()
-   DIR <- "C:/Users/Takahiro Konuma/Documents/Trans-Phar/Output/Schizo"
-   setwd("C:/Users/Takahiro Konuma/Documents/Trans-Phar/Output/Schizo")
+
 
 
 args1 = commandArgs(trailingOnly=TRUE)[1]
